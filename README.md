@@ -16,3 +16,20 @@ npm run start
 This will then provide you with the prompts needed to select, add, or edit an exisiting vehicle. 
 Follow the promopts accordingly, and it will move you to the listing area where you can accelerate, deccelarate, start, brake the vehicle. 
 Print details will also displey the vehicles current status.
+
+## Tests 
+
+All tests can be run using the previously stated Launch commands. 
+
+## How to Use 
+
+When opening an integrated terminal withing package.json run the command 
+npm run start 
+This will then provide you with the prompts needed to select, add, or edit an exisiting vehicle. 
+Follow the promopts accordingly, and it will move you to the listing area where you can accelerate, deccelarate, start, brake the vehicle. 
+Print details will also displey the vehicles current status.
+
+## Credits 
+Michael Cirillo 
+-GitHub: mcirillo93
+UNC Coding Bootcamp (for starter code)
